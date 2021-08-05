@@ -1,0 +1,19 @@
+h1 {
+    color:dodgerblue;
+}
+img{
+    width:400px;
+}
+
+#spanId{
+    font-size:18px;
+    margin:50px;
+}
+
+#thirdDiv {
+    height:600px;
+    width:500px;
+    background-color:#FF2400;
+    padding:50px;
+    border:yellow double 10px;
+}
